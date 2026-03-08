@@ -19,6 +19,7 @@ return {
     {
 	"nvim-lualine/lualine.nvim",
 	dependencies = {
+	    "hrsh7th/cmp-nvim-lsp",
 	    "nvim-tree/nvim-web-devicons",
 	},
 	opts = {
